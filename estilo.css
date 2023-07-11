@@ -1,0 +1,32 @@
+
+table{
+    border: 2px;
+    margin: auto;
+    text-align:center;
+    color:white;
+    border-style: double;
+    background-color: black;
+    vertical-align: baseline;
+    width: 25cm;
+    }
+    th,td{
+        border: 1px;
+        border-style: double;
+        height: 1cm;
+
+    }
+#cabecero{
+    height: 2cm;
+    background-color: orange;
+    font-size: 3cm;
+}
+#indice{
+    height: 1cm;
+    background-color: red;
+}
+button{
+    font-size: 1cm;
+    height: 2cm;
+    border-color: orange;
+    border: 1px;
+}
